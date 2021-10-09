@@ -1,0 +1,24 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: rgba(0, 255, 85, 0.158);
+    color: blue;
+}
+p{
+    font-family: 'Gemunu Libre', sans-serif;
+    font-size: large;
+    color: rgb(63, 121, 55);
+}
+a{
+    font-family: 'Bonheur Royale', cursive;
+    font-size: x-large;
+    color: rgb(176, 5, 255);
+}
+ul{
+    color: rgb(206, 117, 0);
+}
+ol{
+    font-family: 'Gluten', cursive;
+    color: rgb(255, 0, 0);
+}
+img{ width: 256px;
+    height: 256px;}

@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background: rgb(251,63,63);
+background: radial-gradient(circle, rgba(251,63,63,0.8603816526610644) 0%, rgba(252,241,70,1) 100%);
+    color: crimson;
+    
+}
+h1{
+    font-size: xx-large;
+}
+p{
+    font-size: x-large;
+}
+td{
+    border: 2px solid black;
+}
+table{
+    color: rgb(12, 119, 35);
+    background: rgb(251,63,63);
+background: radial-gradient(circle, rgba(251,63,63,0.8603816526610644) 0%, rgba(70,129,252,0.24693627450980393) 100%);
+}
+img{ width: 256px;
+    height: 256px;}

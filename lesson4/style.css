@@ -1,0 +1,43 @@
+.main-right{-webkit-box-shadow: 0px 0px 16px 16px rgba(0, 0, 0, 0.25);
+    -moz-box-shadow: 0px 0px 16px 16px rgba(0, 0, 0, 0.25);
+    box-shadow: 0px 0px 16px 16px rgba(0, 0, 0, 0.25);
+    width: 1200px;
+    padding: 40px;
+    background-color: rgba(0, 139, 139, 0.192);
+}
+.main-left{
+    padding: 40px;
+     text-align: center;
+     width: 512px;
+     -webkit-box-shadow: 0px 0px 16px 16px rgba(0, 0, 0, 0.25);
+-moz-box-shadow: 0px 0px 16px 16px rgba(0, 0, 0, 0.25);
+box-shadow: 0px 0px 16px 16px rgba(0, 0, 0, 0.25);
+background-color: rgba(0, 139, 139, 0.192);
+}
+h1{text-align: center;
+    font-family: 'Gemunu Libre', sans-serif;
+font-size: 50px;}
+h1 span{text-align: center; color: rgba(33, 68, 78, 0.623);
+    font-family: 'Gemunu Libre', sans-serif;
+    font-size: 50px;}
+    
+body{font-family: 'Gemunu Libre', sans-serif;}
+img{ width: 256px;
+    height: 256px;}
+ .t1{width: 512px;
+    border-spacing: 16px 0px;}
+ .t2{
+    border-spacing: 16px 0px;
+    margin-top: 256px;
+ }
+ .main{
+     border-spacing: 32px 0px;
+ }
+ .button{margin-left: 460px;
+    margin-right: 460px;
+padding: 20px;
+background-color: rgba(0, 88, 252, 0.308);
+font-size: 40px;}
+body{background-color: rgba(184, 135, 11, 0.199);}
+p{font-size: 20px;}
+h2{font-size: 30px;}
